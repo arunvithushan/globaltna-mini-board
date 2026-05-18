@@ -1,0 +1,24 @@
+{
+  "type": "Compass Connections",
+  "version": {
+    "$numberInt": "1"
+  },
+  "connections": [
+    {
+      "id": "3b4e6473-47df-4622-98e5-635437c76228",
+      "lastUsed": {
+        "$date": {
+          "$numberLong": "1779086618308"
+        }
+      },
+      "favorite": {
+        "name": "globaltna-mini-board Overview.mongodb.net"
+      },
+      "savedConnectionType": "favorite",
+      "connectionOptions": {
+        "connectionString": "mongodb+srv://arun@cluster1.ddld2sw.mongodb.net/",
+        "oidc": {}
+      }
+    }
+  ]
+}
